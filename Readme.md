@@ -28,12 +28,13 @@ Project mjorly built from
 HTML, TAILWIND
 
 ## Demo | Netlify
-
+https://paytmdotcom.netlify.app/
 
 
 ## Screenshots
-
-
+![paytm1](https://user-images.githubusercontent.com/92782806/185618766-18b73982-2bcc-4a73-903c-ad4fa2406e3c.png)
+![paytm2](https://user-images.githubusercontent.com/92782806/185618799-56a3b438-f61a-4b13-9210-488031241aab.png)
+![paytm3](https://user-images.githubusercontent.com/92782806/185618875-bad54c48-a68a-4eb1-9221-099bcd357ac5.png)
 
 
 ## Features
