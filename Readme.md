@@ -28,7 +28,7 @@ Project mjorly built from
 HTML, TAILWIND
 
 ## Demo | Netlify
-https://app.netlify.com/sites/paydotpaymecom
+https://paydotpaymecom.netlify.app/
 
 
 ## Screenshots
