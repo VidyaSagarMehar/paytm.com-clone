@@ -1,6 +1,7 @@
 
-# Hi, I'm Vidya Sagar Mehar ! 👋
+![Screenshot_20221122_112600](https://user-images.githubusercontent.com/92782806/203236449-adc3973d-a8a5-4617-9b2b-08b68be66e99.png)
 
+# Hi, I'm Vidya Sagar Mehar ! 👋
 
 ### 🚀 I'm a front-end developer...
 
@@ -32,6 +33,7 @@ https://paydotpaymecom.netlify.app/
 
 
 ## Screenshots
+![Screenshot_20221122_112600](https://user-images.githubusercontent.com/92782806/203236449-adc3973d-a8a5-4617-9b2b-08b68be66e99.png)
 ![paytm1](https://user-images.githubusercontent.com/92782806/185618766-18b73982-2bcc-4a73-903c-ad4fa2406e3c.png)
 ![paytm2](https://user-images.githubusercontent.com/92782806/185618799-56a3b438-f61a-4b13-9210-488031241aab.png)
 ![paytm3](https://user-images.githubusercontent.com/92782806/185618875-bad54c48-a68a-4eb1-9221-099bcd357ac5.png)
