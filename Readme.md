@@ -1,5 +1,6 @@
-
+![Screenshot_20221122_114350](https://user-images.githubusercontent.com/92782806/203238724-e71375ef-532d-45d0-8ccf-dc1e8d1bd6f6.png)
 ![Screenshot_20221122_112600](https://user-images.githubusercontent.com/92782806/203236449-adc3973d-a8a5-4617-9b2b-08b68be66e99.png)
+
 
 # Hi, I'm Vidya Sagar Mehar ! 👋
 
