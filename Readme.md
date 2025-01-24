@@ -29,9 +29,6 @@ Project mjorly built from
 ## 🛠 Skills
 HTML, TAILWIND
 
-## Demo | Netlify
-https://paymepay.netlify.app/
-
 
 ## Screenshots
 ![Screenshot_20221122_112600](https://user-images.githubusercontent.com/92782806/203236449-adc3973d-a8a5-4617-9b2b-08b68be66e99.png)
